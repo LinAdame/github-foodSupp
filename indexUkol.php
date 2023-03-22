@@ -35,6 +35,7 @@ function myFunction() {
         <header style="hlavicka">
 
         <h1>POTRAVINY EXTRA SUPER BIO DOBROTY</h1>
+        
         <p> Dnes je 
            <?php
             echo date("j.n.Y")
