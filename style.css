@@ -1,0 +1,67 @@
+h1 {
+    
+    font-size: 50px;
+    text-align: center;
+    margin: 30px;
+    padding: 30px;
+    text-shadow: rgba(0, 0, 0, 0.7);
+}
+
+
+
+.foto-onas {
+    width: 32%;
+    border-radius: 50%;
+    margin-right: 30px;
+    margin-bottom: 3%px;
+    float:left;
+
+}
+
+.foto-dva {
+    width: 32%;
+    border-radius: 50%;
+    float:both;
+}
+
+.foto-jablko {
+    width: 32%;
+    border-radius: 50%;
+    float:both;
+}
+
+section {
+    font-size: 20px;
+    text-align: center;
+    padding: 50px 15%;
+    overflow: auto;
+}
+
+.paticka {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+.dark-mode {
+    background-image: url(dog-7671355_1920.jpg);
+    color: gray;
+    
+}
+
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+  }
+
+.onas {
+    margin: 30px;
+    padding: 20px;
+}
+
+.button {
+    margin: 20px;
+}
