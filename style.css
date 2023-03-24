@@ -1,3 +1,6 @@
+body {
+    background-image: url(background-3017167_1920.jpg);
+}
 h1 {
     
     font-size: 50px;
@@ -16,7 +19,7 @@ h1 {
     margin-bottom: 3%px;
     float:left;
 
-}
+} 
 
 .foto-dva {
     width: 32%;

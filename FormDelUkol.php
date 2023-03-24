@@ -5,7 +5,7 @@
     $sql = "SELECT Nazev, Id FROM kategorie";
     $kategorie = fetchAll( $sql, $conn );
 
-    $moznosti = "";                 //proč jsou tady 2 ID?:ˇ
+    $moznosti = "";                 
     foreach( $kategorie as $k ){
         $moznosti .= '<option value="' . $k[ "Id" ] . '">' . 
                      $k[ "Nazev" ] . " (" . $k[ "Id" ] . " )
@@ -18,8 +18,7 @@
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <link rel="icon" type="image/x-icon" href="img/favicon.png">
-        <link rel="stylesheet" href="css/style.css">
+      
         
         <style>
             table, th, td {

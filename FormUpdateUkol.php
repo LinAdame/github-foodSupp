@@ -5,7 +5,7 @@
     $sql = "SELECT Id, Nazev FROM kategorie";
     $kategorie = fetchAll( $sql, $conn );
 
-    $moznosti = "";                 //proč jsou tady 2 ID?:ˇ
+    $moznosti = "";                
     foreach( $kategorie as $k ){
         $moznosti .= '<option value="' . $k[ "Id" ] . '">' . 
                      $k[ "Nazev" ] . " (" . $k[ "Id" ] . " )
