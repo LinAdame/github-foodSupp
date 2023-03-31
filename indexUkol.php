@@ -119,9 +119,9 @@ function myFunction() {
 
             <!-- Sekce Kontakt -->
 <section> 
-    <h3>KONTAKT</h3>
+  
 
-    <p><a href="kontakt.html">ZDE</a></p>
+    <h3><a href="kontakt.html">Kontakt</a></h3>
 
     <p>Bohdan Ovocňák<br>
     Sadová 1<br>
