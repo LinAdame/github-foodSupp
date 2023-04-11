@@ -2,7 +2,7 @@
 Website of a fictitious food supplier based on PHP functions, getting data from database, using Bootstrap carousel and dark mode by JavaScript. There are also forms for updating, inserting and deleting data from the database.<br> <br>
 DodavatelUkol.php prints all suppliers as list item from the database.<br>
 Faktury.php shows invoices, the unpaid ones are red marked.<br>
-FormDelUkol.php deletes selected categories.<br>
+FormDelUkol.php deletes selected categories from the database.<br>
 FormUkolVlozit.php inserts new categories into the database (it's name, description, url) and prints the table with the datas.<br>
 FormUpdateUkol.php edits the existing category name. <br>
 SelTab.php lists the required parameters from the database (name, id, price, quantity in stock - low is marked in red).<br>
