@@ -1,5 +1,5 @@
 # github-foodSupp
-Website of a fictitious food supplier based on PHP functions, getting data from database, using Bootstrap carousel and dark mode by JavaScript. There are also forms for updating, inserting and deleting data from the database.<br>
+Website of a fictitious food supplier based on PHP functions, getting data from database, using Bootstrap carousel and dark mode by JavaScript. There are also forms for updating, inserting and deleting data from the database.<br> <br>
 DodavatelUkol.php prints all suppliers as list item from the database.<br>
 Faktury.php shows invoices, the unpaid ones are red marked.<br>
 FormDelUkol.php deletes selected categories.<br>
